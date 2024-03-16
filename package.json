@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/Rabin-Shresth/SABDA-NER-UI.git",
+  "homepage": "https://rabin-shresth.github.io/SABDA-NER-UI/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
